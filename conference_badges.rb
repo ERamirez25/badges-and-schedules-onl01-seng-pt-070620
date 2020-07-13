@@ -8,5 +8,5 @@ def batch_badge_creator(attendees)
 end
 
 def batch_bagde_creator(name)
-  name= "Hello, my name is Johnny."
+  name = "Hello, my name is Johnny."
 end 
