@@ -8,5 +8,6 @@ def batch_badge_creator(attendees)
 end
 
 def assign_rooms(speakers)
-  
+  new_arr = []
+  speakers.each_with_index{|name,
 end 
