@@ -4,6 +4,6 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(attendees)
-  attendees = bagdes 
+  attendees = ["Edsger", "Ada", "Charles"]
 end 
   
